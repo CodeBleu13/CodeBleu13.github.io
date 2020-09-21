@@ -2,6 +2,10 @@
 
 Welcome to the world of Bleu! There are going to be many exciting updates here, this is where all game reviews and the background of the homebrew world Val'londe gets uploaded! I hope you have a good time!
 
-## [Val'londe](~/The World of Vallonde/VallondeHome.md)
+## [Val'londe](The World of Vallonde/VallondeHome.md)
 
-Val'londe is the 
+Val'londe is a world I created using many of the fantasy worlds as a begining point. For the most part, the 
+
+## [Game Reviews](gr/TableOfContents.md)
+
+Since December 2019, I began keeping track of the games I've completed and began reviewing them in a structured manner. I typically write a simple one page review in my Lechuttum. I've begun digitizing them and they are listed here.
