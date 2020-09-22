@@ -1,4 +1,5 @@
- # Nier: Automata Game of the YorHa Edition
+# Nier: Automata Game of the YorHa Edition
+--------------------------------------
 
 <dl>
     <table style="width:100%">
