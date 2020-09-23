@@ -11,7 +11,7 @@
             <td><b><u>Year:</u></b> 2017</td>
         </tr>
         <tr>
-            <td colspan="4"><b><u>Studio & Publisher:</u></b> 	Platinum Games & Square Enix </td>
+            <td colspan="4"><b><u>Studio & Publisher:</u></b> 	Ubisoft Monreal & Ubisoft </td>
         </tr>
         <tr>
             <td><b><u>Rating:</u></b> 9.8/10</td>
