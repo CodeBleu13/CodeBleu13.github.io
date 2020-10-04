@@ -34,7 +34,9 @@ Voting: December 1, 2020
 
 ## Categories
 
-There will be 2 sets of categories, one for the present year and one for previous years (aka backlog, or as they will be called in the BGA, Quinquo Games). Quinquo games follow similar rules, the game had to be played within the last 2 years using the same time window, regardless of release date.
+There will be 2 sets of categories, one for the present year and one for previous years (aka backlog, or as they will be called in the BGA, Quinquo Games). Quinquo games follow similar rules, the game had to be played within the last 2 years, as long as release date is ON OR BEFORE October 31 of the current year.
+
+### Current year:
 
 1. GAME OF THE YEAR
 2. Best Co-Op Game
@@ -43,16 +45,33 @@ There will be 2 sets of categories, one for the present year and one for previou
 5. Best Ongoing Game
 6. Best DLC
 7. Best Music
-8. Best Art Direction -> people can submit screenshots
+8. Best Art Direction -> people can submit screenshots?
 9.  Best Narrative
 10. Best Open World Game
-11. Best Action
-12. Best Action/Adventure
+11. Best Action Game
+12. Best Action/Adventure Game
 13. Best Fighting Game
-14. Best Strategy
+14. Best Strategy Game
 15. Best RPG
 16. Best Sports Game
 17. Best Family Game
 18. Content Creator of the Year
 19. Best Remaster/Remake (2 year window)
 20. Best Indie (Small Studio) Game
+
+### Quinquo:
+1. GAME OF THE YEAR
+2. Best Co-Op Game
+3. Best Performance
+4. Best Music
+5. Best Art Direction -> people can submit screenshots?
+6.  Best Narrative
+7.  Best Open World Game
+8.  Best Action Game
+9.  Best Action/Adventure Game
+10. Best Fighting Game
+11. Best Strategy Game
+12. Best RPG
+13. Best Sports Game
+14. Best Family Game
+15. Best Indie (Small Studio) Game
