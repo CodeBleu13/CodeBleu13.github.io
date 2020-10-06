@@ -34,44 +34,42 @@ Voting: December 1, 2020
 
 ## Categories
 
-There will be 2 sets of categories, one for the present year and one for previous years (aka backlog, or as they will be called in the BGA, Quinquo Games). Quinquo games follow similar rules, the game had to be played within the last 2 years, as long as release date is ON OR BEFORE October 31 of the current year.
+There will be 2 sets of categories, one for the present year and one for previous years (aka backlog, or as they will be called in the BGA, Quinquo Games). Quinquo games follow similar rules, the game had to be played within the last 2 years, as long as release date is ON OR BEFORE October 31 of the previous year.
 
 ### Current year:
 
 1. GAME OF THE YEAR
-2. Best Co-Op Game
-3. Best Performance
-4. Best Multiplayer Game
-5. Best Ongoing Game
-6. Best DLC
-7. Best Music
-8. Best Art Direction -> people can submit screenshots?
-9.  Best Narrative
+2. Best Performer
+3. Best Music
+4. Best Art Direction (Possible Screenshot Submissions)
+5. Best Narrative
+6. Best Co-Op Game
+7. Best Multiplayer (PvP) Game
+8. Best Ongoing Game
+9. Best DLC
 10. Best Open World Game
 11. Best Action Game
 12. Best Action/Adventure Game
-13. Best Fighting Game
-14. Best Strategy Game
-15. Best RPG
-16. Best Sports Game
-17. Best Family Game
-18. Content Creator of the Year
-19. Best Remaster/Remake (2 year window)
-20. Best Indie (Small Studio) Game
+13. Best Strategy Game
+14. Best RPG
+15. Best Sports or Fighting Game
+16. Best E/E10+ Game
+17. Best Remaster/Remake (2 year window)
+18. Best Indie (Small Studio) Game
+19. Content Creator of the Year
 
 ### Quinquo:
 1. GAME OF THE YEAR
-2. Best Co-Op Game
-3. Best Performance
-4. Best Music
-5. Best Art Direction -> people can submit screenshots?
-6.  Best Narrative
+2. Best Performer
+3. Best Music
+4. Best Art Direction -> people can submit screenshots?
+5.  Best Narrative
+6.  Best Co-Op Game
 7.  Best Open World Game
 8.  Best Action Game
 9.  Best Action/Adventure Game
-10. Best Fighting Game
-11. Best Strategy Game
-12. Best RPG
-13. Best Sports Game
-14. Best Family Game
-15. Best Indie (Small Studio) Game
+10. Best Strategy Game
+11. Best RPG
+12. Best Sports or Fighting Game
+13. Best E/E10+ Game
+14. Best Indie (Small Studio) Game
