@@ -1,8 +1,11 @@
 # Bleu Game Awards
 
 Inagural 2020 Award Ceremony December 12, 2020
+
 Nominations begin: November 15, 2020
+
 Voting: December 1, 2020
+
 
 
 ## Rules for Bleu Game Awards:
