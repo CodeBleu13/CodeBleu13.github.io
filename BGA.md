@@ -4,7 +4,7 @@
 
 ### Nominations begin: November 15, 2020
 
-![Nomination Ballot](https://forms.gle/oPoLTx1k9BkUBvGN9)
+[Nomination Ballot](https://forms.gle/oPoLTx1k9BkUBvGN9)
 
 ### Voting: December 1, 2020
 
