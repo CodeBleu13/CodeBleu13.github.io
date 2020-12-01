@@ -6,15 +6,15 @@
 
 [Nomination Ballot](https://forms.gle/oPoLTx1k9BkUBvGN9)
 
-### Voting: December 1, 2020
+### Voting: ~~December 1~~ December 5, 2020
 
 ![BGA 2020]()
 
 ## Rules for Bleu Game Awards:
 
  1. Games must come out between November 1 of the previous year to Oct 31 of the current year.
- 2. Nominations take place during the month of November, the deadline being November 30.
- 3. Voting takes place December 1-10 (allowing 2 days for results to be calculated) **NOTE** Voting can be extended to the 11th.
+ 2. Nominations take place during the month of November, the deadline being ~~November 30~~. Nominations have been extended to December 4th
+ 3. Voting takes place December 1-10 (allowing 2 days for results to be calculated) **NOTE** Voting can be extended to the 11th. **NOTE** Voting has been postponed to Dec 5
  4. Remasters/remakes cannot be considered for full Game of the Year; they have their own category.
 
 ## Nomination Rules
