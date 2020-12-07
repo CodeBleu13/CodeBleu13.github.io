@@ -8,7 +8,7 @@
 
 ### Voting: ~~December 1~~ December 5, 2020
 
-![BGA 2020]()
+![BGA 2020](https://forms.gle/mPRAjgD3Z8p2jwgE9)
 
 ## Rules for Bleu Game Awards:
 
