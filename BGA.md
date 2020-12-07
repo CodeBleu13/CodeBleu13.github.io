@@ -4,7 +4,7 @@
 
 ### Nominations begin: November 15, 2020
 
-[Nomination Ballot](https://forms.gle/oPoLTx1k9BkUBvGN9)
+[Nomination Breakdown](BGA/2020Nom.md) click [here](BGA/2020Nom.ipynb) to download the jupyter notebook
 
 ### Voting: ~~December 1~~ December 5, 2020
 
