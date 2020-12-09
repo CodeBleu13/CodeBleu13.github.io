@@ -1,12 +1,12 @@
 # Bleu Game Awards
 
-### Inagural 2020 Award Ceremony December 12, 2020
+### Inagural 2020 Award Ceremony December 12, 2020 @ 9PM Eastern Time
 
 ### Nominations begin: November 15, 2020
 
 [Nomination Breakdown](BGA/2020Nom.md) click [here](BGA/2020Nom.ipynb) to download the jupyter notebook
 
-### Voting: ~~December 1~~ December 5, 2020
+### Voting: ~~December 1~~ December 5, 2020 (Ends December 12th at 8PM Eastern Time)
 
 [BGA 2020](https://forms.gle/mPRAjgD3Z8p2jwgE9)
 
