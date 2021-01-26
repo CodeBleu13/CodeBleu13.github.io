@@ -4,11 +4,13 @@
 
 ### Nominations begin: November 15, 2020
 
-[Nomination Breakdown](BGA/2020Nom.md) click [here](BGA/2020Nom.ipynb) to download the jupyter notebook
+[Nomination Breakdown](BGA/2020Nom.md) click [here](BGA/2020Nom.ipynb) to download the jupyter notebook and the [data](BGA/nominations.csv)
 
 ### Voting: ~~December 1~~ December 5, 2020 (Ends December 12th at 8PM Eastern Time)
 
-[BGA 2020](https://forms.gle/mPRAjgD3Z8p2jwgE9)
+[BGA 2020 winners](BGA/2020FinalVote.md), there is also the [breakdown notebook](BGA/2020FinalVote.ipynb) and the [data](BGA/BGAs.csv).
+
+I will eventually be putting the winners here, but in the meanwhile, a quick lessons learned as I update the rules for the future BGAs. The nominations are going to be prefilled with an 'other' option for write-ins, just to make things altogether easier. Furthermore, many categories are being removed from the quinquo section. These updates will be visible soon:tm:!!!
 
 ## Rules for Bleu Game Awards:
 
