@@ -3,6 +3,43 @@
 The votes have been Cast. Let's see the results
 
 
+- [The Bleu Game Awards 2020 Final](#the-bleu-game-awards-2020-final)
+  - [Quinquo Games](#quinquo-games)
+    - [Best Performance](#best-performance)
+    - [Best Musical Score](#best-musical-score)
+    - [Best Art Direction](#best-art-direction)
+    - [Best Narrative](#best-narrative)
+    - [Best Co-op Game](#best-co-op-game)
+    - [Best Open World Game](#best-open-world-game)
+    - [Best Action Game](#best-action-game)
+    - [Best Action Adventure Game](#best-action-adventure-game)
+    - [Best Strategy Game](#best-strategy-game)
+    - [Best RPG](#best-rpg)
+    - [Best Sports Game](#best-sports-game)
+    - [Best Family/E10+ Game](#best-familye10-game)
+    - [Best Game by an Indie Game Studio](#best-game-by-an-indie-game-studio)
+    - [Game of the Year](#game-of-the-year)
+  - [2020 Winners](#2020-winners)
+    - [Best Performance](#best-performance-1)
+    - [Best Musical Score](#best-musical-score-1)
+    - [Best Art Direction](#best-art-direction-1)
+    - [Best Narrative](#best-narrative-1)
+    - [Best Co-op Game](#best-co-op-game-1)
+    - [Best Multiplayer (PvP) Game](#best-multiplayer-pvp-game)
+    - [Best Ongoing Game](#best-ongoing-game)
+    - [Best DLC for a Game](#best-dlc-for-a-game)
+    - [Best Open World Game](#best-open-world-game-1)
+    - [Best Action Game](#best-action-game-1)
+    - [Best Action Adventure Game](#best-action-adventure-game-1)
+    - [Best Strategy Game](#best-strategy-game-1)
+    - [Best RPG](#best-rpg-1)
+    - [Best Sports Game](#best-sports-game-1)
+    - [Best Family/E 10+ Game](#best-familye-10-game)
+    - [Best Remaster/Remake](#best-remasterremake)
+    - [Best Game Made by an Indie Studio](#best-game-made-by-an-indie-studio)
+    - [Content Creator of the Year](#content-creator-of-the-year)
+    - [Game of the Year](#game-of-the-year-1)
+
 
 ```python
 import pyrankvote as prv
