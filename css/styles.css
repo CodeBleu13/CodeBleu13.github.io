@@ -166,7 +166,7 @@ img {
     position: absolute;
     top: 30px;
     right: 0;
-    width: 150px; /* for girth */
+    width: 200px; /* for girth */
 
     z-index: 1;
 }
@@ -182,9 +182,13 @@ img {
     margin: 10px;
 }
 
+.socials-menu img{
+    vertical-align: middle;
+}
+
 .socials-menu li a {
     display: block;
-    width: 115px;
+    width: 165px;
 }
 
 .socials-menu li:last-of-type{
