@@ -35,7 +35,7 @@ img {
     justify-content: space-between;
     width: 100%;
     padding: 10px;
-    padding-left: 20px;
+    /*padding-left: 20px;*/
     padding-right: 20px;
     /*background: #021425;*/
     background: #eca200;
@@ -58,11 +58,11 @@ img {
 
 .menu > li {
     display: inline;
-    margin-right: 50px;
+    margin-right: 50px; /*originally 50px*/
 }
 
 .menu >li:last-of-type{
-    margin-right: 0;
+    margin-right: 50px; /*originally 0*/
 }
 
 .dropdown {
@@ -71,6 +71,7 @@ img {
     flex-direction: column;
     position: relative;
     color: #021425; /* SET THIS TO SAME AS LINKS IN TOP BAR */
+    padding-bottom: 30px; /* THIS MAKES THE DROPDOWN NOT DISAPEAR TOO SOON (must not be too small -> min 25px) */
 }
 
 .dropdown > span {
@@ -79,16 +80,93 @@ img {
     cursor: pointer;
 }
 
+/* BGA DROPDOWN */
+
+.dropdown:hover .bga-menu{
+    display: flex;
+    flex-direction: column;
+    background: #ffbb26;
+    border-radius: 5px;
+    padding-top: 60;
+    width: 200px; /* also girth */
+
+    position: absolute;
+    top: 30px;
+    right: 0;
+
+    z-index: 1;
+}
+
+.bga-menu{
+    display: none;
+}
+
+.bga-menu li {
+    list-style: none;
+    border-bottom: 1px solid #FFF;
+    padding: 0 40px 10px 20px;
+    margin: 10px;
+}
+
+.bga-menu li a {
+    display: block;
+    width: 165px;
+}
+
+.bga-menu li:last-of-type{
+    border-bottom: none;
+}
+
+/* D&D DROPDOWN*/
+
+.dropdown:hover .dnd-menu{
+    display: flex;
+    flex-direction: column;
+    background: #ffbb26;
+    border-radius: 5px;
+    padding-top: 60;
+    width: 200px; /* also girth */
+
+    position: absolute;
+    top: 30px;
+    right: 0;
+
+    z-index: 1;
+}
+
+.dnd-menu{
+    display: none;
+}
+
+.dnd-menu li {
+    list-style: none;
+    border-bottom: 1px solid #FFF;
+    padding: 0 40px 10px 20px;
+    margin: 10px;
+}
+
+.dnd-menu li a {
+    display: block;
+    width: 165px;
+}
+
+.dnd-menu li:last-of-type{
+    border-bottom: none;
+}
+
+/* SOCIALS DROPDOWN*/
+
 .dropdown:hover .socials-menu{
     display: flex;
     flex-direction: column;
-    background: midnightblue;
+    background: #ffbb26;
     border-radius: 5px;
     padding-top: 60;
 
     position: absolute;
-    top: 20px;
+    top: 30px;
     right: 0;
+    width: 150px; /* for girth */
 
     z-index: 1;
 }
@@ -104,9 +182,16 @@ img {
     margin: 10px;
 }
 
+.socials-menu li a {
+    display: block;
+    width: 115px;
+}
+
 .socials-menu li:last-of-type{
     border-bottom: none;
 }
+
+
 
 .smlogo{
     width: 50px;
@@ -121,7 +206,7 @@ img {
 
 .header-container {
     height: max-content;
-    background-color: darkblue;
+    background-color: #021425;
     display: flex;
     justify-content: center;
     padding-top: 100px;
