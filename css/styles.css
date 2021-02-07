@@ -37,12 +37,23 @@ img {
     padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    background: #021425;
+    /*background: #021425;*/
+    background: #eca200;
     /*align-items: center;*/
 }
 
 .menu {
     margin-top: 15px;
+}
+
+.menu a:link, .menu a:visited {
+    color: #021425;
+    text-decoration: none;
+}
+
+.menu a:visited:hover {
+    text-decoration: underline;
+    color: #021425;
 }
 
 .menu > li {
@@ -59,7 +70,7 @@ img {
     justify-content: space-between;
     flex-direction: column;
     position: relative;
-    color: #9ecdf9; /* SET THIS TO SAME AS LINKS */
+    color: #021425; /* SET THIS TO SAME AS LINKS IN TOP BAR */
 }
 
 .dropdown > span {
@@ -99,6 +110,11 @@ img {
 
 .smlogo{
     width: 50px;
+    /*
+    -webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));
+    filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5)); 
+    filter: url(shadow.svg#drop-shadow);
+    */
 }
 
 /* Main Header */
@@ -144,6 +160,7 @@ img {
     
     overflow: hidden;
     background-color: #021425; 
+    padding-bottom: 100px;
 }
 
 .page {
@@ -189,6 +206,14 @@ img {
 
 .footer {
     height: 200px;
-    background-color: orange;
+    background-color: #eca200;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     clear: both;
+    color: #021425;
+
 }
