@@ -210,7 +210,8 @@ img {
 
 .header-container {
     height: max-content;
-    background-color: #021425;
+    background-color: #021425;       /* THIS IS THE OLD ONE, IT IS GOOD */
+    /* background-color: #01101e; */   /* COOL EFFECT 1 of 3 */
     display: flex;
     justify-content: center;
     padding-top: 100px;
@@ -248,12 +249,14 @@ img {
 .main {
     
     overflow: hidden;
-    background-color: #021425; 
+    background-color: #021425;  /* STD */
+    /* background-color: #01101e; */ /*COOL EFFECT 2 of 3 */
     padding-bottom: 100px;
 }
 
 .page {
     /*border: 1px solid #FFF;*/
+    /* background-color: #021425; */ /*COOL EFFECT 3 of 3 */
     width: 50%;
     display: flex;
     justify-content: space-between;
