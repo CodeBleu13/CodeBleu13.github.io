@@ -22,6 +22,11 @@ a:visited:hover {
     color: #9ecdf9;
 }
 
+a:hover {
+    text-decoration: underline;
+    color: #9ecdf9;
+}
+
 img {
     max-width: 100%;
     max-height: auto;
@@ -283,6 +288,21 @@ img {
 
 .content p {
     padding: 1rem .2rem;
+}
+
+.content h2 {
+    color: #FFB81C;
+    padding-top: 2rem;
+}
+
+.content th, td {
+    /*border: 1px solid #03213d;*/     /* option 1 */
+    border: 1px solid #053a6c;       /* option 2 */
+    padding: .4rem 0rem .4rem .4rem;
+}
+
+.content table {
+    border-collapse: collapse;
 }
 
 
