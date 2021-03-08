@@ -365,6 +365,26 @@ img {
     padding: 0;
 }
 
+.bga2020{
+    display: flex;
+    flex-direction: row;
+    /*flex: 1 0 34%; /* 26% is too small for 4 items */
+}
+
+.colbga {
+    flex-direction: column;
+}
+.colbga > div {
+    border: 1px solid #053a6c;
+}
+
+
+.bga2020 tr:nth-child(2) td:nth-child(1) {
+    transform: rotate(-90.0deg);
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    white-space: nowrap;
+}
 
 /* Sidebar not on home page */ 
 .sidebar {
