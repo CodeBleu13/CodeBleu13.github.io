@@ -305,6 +305,11 @@ img {
     border-collapse: collapse;
 }
 
+.content ul, ol {
+    margin-left: 2rem;
+    padding: 0;
+}
+
 
 /* Sidebar not on home page */ 
 .sidebar {
