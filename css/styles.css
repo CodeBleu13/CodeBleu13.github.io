@@ -249,6 +249,61 @@ img {
     padding-left: 1%;
 }
 
+/* Review Navigation, RevNav Buttons */
+.revnav {
+    background-color: #021425;
+    display: flex;
+    justify-content: center;
+}
+.lrevnav, .lrevnav:visited {
+    color: #9ecdf9;
+    background-color: #021425;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+
+    width: 200px;
+    margin: 20px auto;
+}
+.lrevnav:hover, .lrevnav:visited:hover {
+    background-color: #9ecdf9;
+    color: #021425;
+}
+
+.crevnav, .crevnav:visited {
+    color: #9ecdf9;
+    background-color: #021425;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+
+    width: 400px;
+    margin: 20px auto;
+}
+.crevnav:hover, .crevnav:visited:hover {
+    background-color: #9ecdf9;
+    color: #021425;
+}
+
+.rrevnav, .rrevnav:visited {
+    color: #9ecdf9;
+    background-color: #021425;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+
+    width: 200px;
+    margin: 20px auto;
+}
+
+.rrevnav:hover, .rrevnav:visited:hover {
+    background-color: #9ecdf9;
+    color: #021425;
+}
+
 /* Body */
 
 .main {
